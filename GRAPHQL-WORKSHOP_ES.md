@@ -14,5 +14,6 @@
 
 💡 **Nota:** Todos son bienvenidos, incluso sin cumplir todos los requisitos. Quienes no puedan realizar las actividades prácticas **igualmente aprenderán algo nuevo**.
 
+### Extra
 **Vivimos en la era de la IA**, así que, una vez que completemos todo, si hay tiempo e interés entre los estudiantes, intentaremos (o al menos yo demostraré cómo) **exponer nuestra API recién creada a la IA**, explicando y mostrando el tema más candente del momento: **APIs para IAs**, uno de los casos de uso más relevantes para GraphQL actualmente.
 
