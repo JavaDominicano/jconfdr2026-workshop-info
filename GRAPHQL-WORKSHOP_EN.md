@@ -1,6 +1,4 @@
-We live in an age of AI, so after we complete everything, if there's time and interest among students, we will try (or at least I will demonstrate how) to expose our newly built API to the AI, explaining and demonstrating the hottest topic at the moment - APIs for AIs - this is one of the hottest use cases for GraphQL at the moment.
-
-Requirements for Attendees
+### Requirements for Attendees
 
 Technical:
 
@@ -17,3 +15,6 @@ Knowledge:
 -   No prior GraphQL experience required.
 
 People are still welcome to join the workshop without any or all of the above; that just means they won't be able to do the hands-on work, but will still definitely learn something.
+
+### Bonus (Extra)
+We live in an age of AI, so after we complete everything, if there's time and interest among students, we will try (or at least I will demonstrate how) to expose our newly built API to the AI, explaining and demonstrating the hottest topic at the moment - APIs for AIs - this is one of the hottest use cases for GraphQL at the moment.
